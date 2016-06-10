@@ -1,0 +1,20 @@
+{
+  "actionable": true, 
+  "help": "https://github.com/weirdpattern/alfred-screen-capture-workflow", 
+  "update": {
+    "enabled": true, 
+    "frequency": 7, 
+    "include-prereleases": false, 
+    "repository": {
+      "github": {
+        "repository": "alfred-screen-capture-workflow", 
+        "username": "weirdpattern"
+      }
+    }
+  }, 
+  "version": "1.0.0", 
+  "workflow": {
+    "delay": 5, 
+    "drop": "/Users/WeirdPattern/Screenshots"
+  }
+}

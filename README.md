@@ -41,6 +41,6 @@ Supported customizations:
 
 ![Workflow Customizations][customizations]
 
-[options] http://i.imgur.com/Qv3OIIv.png
-[destinations] http://i.imgur.com/qzL23T7.png
-[customizations] http://i.imgur.com/iM4WW81.png
+[options]: http://i.imgur.com/Qv3OIIv.png
+[destinations]: http://i.imgur.com/qzL23T7.png
+[customizations]: http://i.imgur.com/iM4WW81.png
